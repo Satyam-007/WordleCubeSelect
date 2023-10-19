@@ -1,0 +1,2 @@
+# WordleCubeSelect
+Test
